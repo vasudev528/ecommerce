@@ -10,7 +10,6 @@ function updateDisplay() {
   document.getElementById("display").innerText = `${h}:${m}:${s}`;
 }
 //gdsfshdkjfhsdkjfhsdkjfhkjsdfhksjdhk
-// urhrekjhfjkhfdjksf
 
 function start() {
   if (!timer) {
