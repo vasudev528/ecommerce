@@ -9,6 +9,7 @@ function updateDisplay() {
   let s = seconds < 10 ? "0" + seconds : seconds;
   document.getElementById("display").innerText = `${h}:${m}:${s}`;
 }
+//gdsfshdkjfhsdkjfhsdkjfhkjsdfhksjdhk
 
 function start() {
   if (!timer) {
